@@ -1,5 +1,5 @@
 # Site settings
-title: The Minimum Viable Model
+title: Juno's Space Station
 description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -24,16 +24,16 @@ logo-dark: "/assets/img/branding/MVM-logo-full-dark.svg"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: Armando Maynez # add your name
+author: Jun Ho Moon # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: Engineer, industry executive, research enthusiast. Avid learner with diverse interests in coding, machine learning, artificial intelligence and reinforcement learning. 17+ years of experience working in multinational corporations.
+about-author: Born on September 10, 2004, in Daegu, and interested in web hacking while attending the Department of Industrial Security at Chung-Ang University.
 
 # Contact links
-email: armando.maynez@gmail.com # Add your Email address
-phone: # Add your Phone number
-website: https://amaynez.github.io # Add your website
+email: mun2004910@gmail.com # Add your Email address
+phone: 010 - 2875 - 5871 # Add your Phone number
+website: https://daljuno.github.io # Add your website
 linkedin: amaynez # Add your Linkedin handle
-github: amaynez # Add your Github handle
+github: daljuno # Add your Github handle
 twitter: '@MvmThe' # Add your Twitter handle
 bandcamp: armandomaynez # Add your Bandcamp username
 stackoverflow: stackoverflow # Add your stackoverflow account
